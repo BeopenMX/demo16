@@ -37,8 +37,8 @@
                                         <span t-field="o.partner_id.street"/>
 
                                         <t t-if="o.partner_id.street">,</t>
-                                        <span t-field="o.partner_id.l10n_mx_edi_colony"/>
-                                        <t t-if="o.partner_id.l10n_mx_edi_colony">,</t>
+<!--                                        <span t-field="o.partner_id.l10n_mx_edi_colony"/>-->
+<!--                                        <t t-if="o.partner_id.l10n_mx_edi_colony">,</t>-->
                                         <span t-field="o.partner_id.city"/>,
 
 
